@@ -27,3 +27,13 @@ body {
 .card {
   height: 100%;
 }
+
+.theme-color {
+  background-color: #940010
+}
+
+.banner-text {
+  font-size: 4rem;
+  color: #940010;
+  font-weight: 400;
+}
